@@ -1,0 +1,4 @@
+{
+    "MongoDBURL1":"mongodb://localhost:27017/vtng01",
+    "MongoDBURL":"mongodb://localhost:27017/vtng01"
+}
